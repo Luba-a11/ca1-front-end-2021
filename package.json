@@ -1,0 +1,17 @@
+{
+  "name": "filmsapi",
+  "version": "1.0.0",
+  "description": "a films api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Liubov Eremenko",
+  "license": "ISC",
+  "dependencies": {
+    "3d-view": "^2.0.1",
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "mongoose": "^6.0.12"
+  }
+}
